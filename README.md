@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://i2.wp.com/www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif?fit=350%2C197&ssl=1"/>
+<img align="right" alt="coding" width="350" src="https://i2.wp.com/www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif?fit=350%2C197&ssl=1"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novenya&label=Profile%20views&color=0e75b6&style=flat" alt="novenya" /> </p>
