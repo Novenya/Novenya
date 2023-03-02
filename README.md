@@ -1,4 +1,4 @@
-![MasterHead](https://pa1.narvii.com/6531/b970ccfa36da44ed800df466feb77a3857b851f8_hq.gif)![MasterHead](https://media.tenor.com/TzXr_5urqJEAAAAC/hatsune-miku-happy.gif)
+![MasterHead](https://pa1.narvii.com/6531/b970ccfa36da44ed800df466feb77a3857b851f8_hq.gif)
 <h1 align="center">Hi 👋, I'm Nethmi Novenya</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+of+Uva+wellassa+University+Sri+Lanka;Software+developer;Problem+Solver;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
