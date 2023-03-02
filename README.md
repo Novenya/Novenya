@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Novenya/Novenya/blob/main/github-header-image.png)
+![logo](https://github.com/Novenya/Novenya/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nethmi Novenya</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+of+Uva+wellassa+University+Sri+Lanka;Software+developer;Problem+Solver;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
