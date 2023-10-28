@@ -38,3 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novenya&" alt="novenya" /></p>
 
+[![An image of @enya_dev_girl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/enya_dev_girl)](https://holopin.io/@enya_dev_girl)
+
