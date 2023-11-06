@@ -39,5 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novenya&" alt="novenya" /></p>
 
-
+[![An image of @novenya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/novenya)](https://holopin.io/@novenya)
 
